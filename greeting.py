@@ -1,4 +1,4 @@
-greeting = "hello world"
+greeting = "\nhello world\n"
 name = "Kasie"
 
 print (greeting)
