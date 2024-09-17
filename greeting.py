@@ -1,4 +1,7 @@
 greeting = "\nhello world\n"
 name = "Kasie"
 
-print (greeting)
+reason = "Frist time commit from Chromebook - swtiching from Macbook - testing."
+
+print (greeting + reason)
+#print (reason)
