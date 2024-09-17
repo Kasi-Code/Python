@@ -1,3 +1,5 @@
+# Setting up for Chromebook from Macbook
+
 greeting = "\nhello world "
 name = "Kasie\n"
 
